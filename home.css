@@ -1,0 +1,147 @@
+.main{
+    display: flex;
+    height: 100%;
+}
+.div1{
+    display: flex;
+    width: 100%;
+    /* height: 50px; */
+    /* border: 1px solid black; */
+    justify-content: space-between;
+    border-radius: 10px;
+    background-color: #fff;
+    /* position: fixed; */
+    
+}
+/* body{
+    width: 100%;
+} */
+ /* .img1{
+    margin-left: 50px;
+ } */
+ #id1{
+    width:300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+.tech{
+    margin-top: 30px;
+}
+.div2{
+    /* display: flex; */
+    /* border:  1px solid black; */
+    width: 350px;
+    height: 200px;
+    background-color:#fff;
+    border-radius: 10px;
+    /* text-align: center; */
+    justify-content: space-around;
+    margin-left: 15px;
+}
+.div3{
+    /* border: 1px solid black; */
+    margin-left: 10px;
+    width: 330px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+    /* text-align: center; */
+}
+.div4{
+    /* border: 1px solid black; */
+    margin-left: 10px;
+    width: 300px;
+    background-color: #fff;
+    border-radius: 10px;
+    /* text-align: center; */
+}
+.div2:hover{
+    background-color: darkgray;
+}
+.card1{
+    color: rgb(223, 208, 208);
+    padding-left: 20px;
+}
+.card2{
+    padding-left: 30px;
+    color: rgb(223, 208, 208);
+}
+.card3{
+    text-align: center;
+    font-weight: bold;
+}
+.img2:hover{
+    border: 5px solid blue; 
+
+}
+.div3:hover{
+    opacity: 0.3 ;
+}
+.pro{
+    display: flex;
+}
+.pro img{
+    padding-top: 26px;
+    padding-left: 70px;
+}
+.pen{
+    display: flex;
+    padding-left: 70px;
+}
+.pen img{
+    padding-top: 10px;
+}
+.div5{
+    display: flex;
+    /* row-gap: 300px; */
+    column-gap: 300px;
+    /* border: 1px solid black; */
+    height: 80px;
+    background-color: #fff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.card4{
+    text-align: center;
+}
+.div6{
+    width: 100%;
+}
+/* .tdsessions{
+    background-color: blue;
+} */
+.div7{
+    margin-top: 30px;
+    position: sticky;
+}
+.dib8{
+    position: fixed;
+    z-index: 1;
+}
+.virat{
+    position: relative;
+}
+.function{
+    background-color: aqua;
+    position: absolute;
+    display: none;
+    top: 73%;
+    right: -85px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.virat:hover{
+    ul{
+        background-color: aliceblue;
+        display: block;
+    }
+    ul li{
+        color: orange;
+    }
+}
+
+.function li{
+    color: black;
+}

@@ -1,0 +1,42 @@
+*{
+    text-decoration: none;
+    /* background-color: aliceblue; */
+}
+.left1{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 590px;
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+    justify-content: space-around;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    background-color: tomato;
+    width:100px;
+    height: 40px;
+    border-radius: 10px; 
+}
+.aside1{
+    margin-left: 20px;
+}
+.aside2{
+    display: flex;
+    width: 100%;
+}
+.main{
+    display: flex;
+    width: 100%;
+}
+a:hover{
+    color: rgb(220, 20, 0);
+}
+.ah{
+    font-size: 15px;
+}
+
+
+
